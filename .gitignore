@@ -34,5 +34,5 @@ Thumbs.db
 *.swp
 *.swo
 
-# Notebook artifacts
-*.ipynb
+# Notebook checkpoints only
+.ipynb_checkpoints/
