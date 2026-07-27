@@ -150,10 +150,10 @@ All parameters are centralized in `config.py`:
 
 ## 👤 Author
 
-**[Your Name]**
-- GitHub: [@YourUsername](https://github.com/YourUsername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**[Aditya]**
+- GitHub: [@adivx](https://github.com/adivx)
+- LinkedIn: [Aditya kumar](https://www.linkedin.com/in/aditya-kumar-49b976383/)
+- Email: aditya.kumar.x9182@gmail.com
 
 ---
 
