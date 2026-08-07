@@ -65,8 +65,8 @@ $$\lambda_{\pm} = \sigma^2\left(1 \pm \sqrt{Q}\right)^2$$
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/[Your Username]/rmt-portfolio-optimization.git
-cd rmt-portfolio-optimization
+git clone https://github.com/adivx/rmt-portfolio.git
+cd rmt-portfolio
 ```
 
 ### 2. Install Dependencies
@@ -150,9 +150,9 @@ All parameters are centralized in `config.py`:
 
 ## 👤 Author
 
-**[Aditya]**
+**Aditya Kumar**
 - GitHub: [@adivx](https://github.com/adivx)
-- LinkedIn: [Aditya kumar](https://www.linkedin.com/in/aditya-kumar-49b976383/)
+- LinkedIn: [Aditya Kumar](https://www.linkedin.com/in/aditya-kumar-49b976383/)
 - Email: aditya.kumar.x9182@gmail.com
 
 ---
